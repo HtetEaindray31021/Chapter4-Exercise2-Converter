@@ -1,0 +1,18 @@
+<resources>
+
+   <string name="hello">Hello World, Converter!</string>
+    <string name="app_name">Converter</string>
+    <string name="buttonHandler">myClickHandler</string>
+	<string name="cur_temp">Convert Temperature</string>
+	<string name="cur_cur">Convert Currency</string>
+	<string name="app_name_temp">Temperature Converter</string>
+	<color name="myColor">#3399CC</color>
+	<string name="buttonHandler1">myClickHandler</string>
+	<string name="celsius">to Celsius</string>
+	<string name="fahrenheit">to Fahrenheit</string>
+	<string name="calc">Convert</string>
+	<string name="app_name_cur">Currency Converter</string>
+	<string name="buttonHandler2">myClickHandler</string>
+	<string name="conv">Convert</string>
+
+</resources>
